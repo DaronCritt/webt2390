@@ -71,7 +71,7 @@ nav li {
 }
 
 .main_cat1, .main_cat2, .main_cat3 {
-    padding: auto;
+    padding: 2px;
     border: 5px solid #f4a261;
     width: 50%;
 }
